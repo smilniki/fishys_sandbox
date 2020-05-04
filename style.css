@@ -3,7 +3,17 @@ body {
 	font-family: Verdana;
 }
 
-.sandbox {
+.sandbox-title {
 	color: white;
 	text-align: center;
+	padding: 10px;
+	font-size: 18px;
+}
+
+.sandbox {
+	background: white;
+	border-radius: 5px;
+	height: 80%;
+	padding: 20px;
+	margin: 20px;
 }

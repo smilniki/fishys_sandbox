@@ -1,0 +1,163 @@
+{
+  "request": {
+    "options": [
+      "format=json"
+    ],
+    "pageUrl": "https://www.wired.com/story/climate-change-change-your-mind-about-alternative-meat/",
+    "api": "article",
+    "version": 3
+  },
+  "objects": [
+    {
+      "date": "Wed, 01 Apr 2020 06:00:00 GMT",
+      "sentiment": -0.105,
+      "images": [
+        {
+          "naturalHeight": 670,
+          "width": 0,
+          "diffbotUri": "image|3|1110135619",
+          "url": "https://media.wired.com/photos/5e71b21a845a6c00080f0e65/191:100/w_1280,c_limit/Climate-Art_Fake-Meat_2804.jpg",
+          "naturalWidth": 1280,
+          "primary": true,
+          "height": 0
+        }
+      ],
+      "author": "Virginia Heffernan",
+      "estimatedDate": "Wed, 01 Apr 2020 06:00:00 GMT",
+      "publisherRegion": "North America",
+      "icon": "https://www.wired.com/verso/static/wired/assets/favicon.ccc13c90b928e0b02eaafcfb05864c93a0136dd0.ico",
+      "diffbotUri": "article|3|-1105739098",
+      "siteName": "Wired",
+      "type": "article",
+      "title": "What Plant-Based Burgers Can Teach Us About Saving the Planet",
+      "tags": [
+        {
+          "score": 0.859042763710022,
+          "sentiment": 0.266,
+          "count": 2,
+          "label": "Impossible Foods",
+          "uri": "https://diffbot.com/entity/CvvmoX5ZPO1K4mSivp_ALHQ",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Company"
+          ]
+        },
+        {
+          "score": 0.7331635355949402,
+          "sentiment": 0.33,
+          "count": 1,
+          "label": "Plant Based",
+          "uri": "https://diffbot.com/entity/OHxW3MfpgMxuE9HDpU1siBg",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation"
+          ]
+        },
+        {
+          "score": 0.7267791628837585,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Redwood City",
+          "uri": "https://diffbot.com/entity/AuaBmENEpOj-Jn4zhhh1rFg",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/PopulatedPlace",
+            "http://dbpedia.org/ontology/Settlement",
+            "http://dbpedia.org/ontology/City"
+          ]
+        },
+        {
+          "score": 0.721053421497345,
+          "sentiment": 0.921,
+          "count": 5,
+          "label": "Patrick O. Brown",
+          "uri": "https://diffbot.com/entity/PuAmFaodpOWm4lBA4tWVHow",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Person"
+          ]
+        },
+        {
+          "score": 0.6199696660041809,
+          "sentiment": 0,
+          "count": 1,
+          "label": "White Castle",
+          "uri": "https://diffbot.com/entity/OZ1rEK2fOPoa7fylnwzktNA",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Company"
+          ]
+        },
+        {
+          "score": 0.60350501537323,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Burger King",
+          "uri": "https://diffbot.com/entity/CrYhR-Me-PJKBk96QvcXvvA",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Company"
+          ]
+        },
+        {
+          "score": 0.5714755654335022,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Stanford University",
+          "uri": "https://diffbot.com/entity/OYIgQu0uKMdqz5168f_zH4Q",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Non-ProfitOrganisation",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/University",
+            "http://dbpedia.org/ontology/Company"
+          ]
+        },
+        {
+          "score": 0.5663532018661499,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Oklahoma State University–Stillwater",
+          "uri": "https://diffbot.com/entity/ODEah6tKIN5Kie9sUuHcMAA",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/EducationalInstitution",
+            "http://dbpedia.org/ontology/University"
+          ]
+        },
+        {
+          "score": 0.5547993183135986,
+          "sentiment": 0,
+          "count": 3,
+          "label": "Zee News",
+          "uri": "https://diffbot.com/entity/C2r5YP8T2N7emM91Z8RPS6w",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Organisation",
+            "http://dbpedia.org/ontology/Broadcaster",
+            "http://dbpedia.org/ontology/BroadcastNetwork"
+          ]
+        },
+        {
+          "score": 0.542000412940979,
+          "sentiment": 0,
+          "count": 1,
+          "label": "Zora Neale Hurston",
+          "uri": "https://diffbot.com/entity/PovPyLTgJNkG-fw1K5V5PLQ",
+          "rdfTypes": [
+            "http://dbpedia.org/ontology/Person"
+          ]
+        }
+      ],
+      "publisherCountry": "United States",
+      "humanLanguage": "en",
+      "authorUrl": "https://www.wired.com/contributor/virginia-heffernan",
+      "pageUrl": "https://www.wired.com/story/climate-change-change-your-mind-about-alternative-meat/",
+      "html": "<p>Pat Brown, the Stanford biochemist who founded <a href="https://www.wired.com/story/the-impossible-burger/">Impossible Foods</a>, was trying to be patient, as if he were addressing a dim sophomore. This was five years ago, and his company's signature product&mdash;a bona fide burger made from plants and animated by a molecule from soy plants that's bio-equivalent to mammal blood&mdash;hadn't yet found its way to Burger King and White Castle. I'd come to his office in Redwood City, California, to talk to him about whether consumers really would start eating a beef simulacrum.</p>\n<p>Now <em>this</em> was a startup. In identifying heme, that blood-like molecule, Brown had a galvanizing innovation. And his company had a crystal-clear reason for being: to meaningfully reduce livestock farming, the industry that produces 14.5 percent of all <a href="https://www.wired.com/tag/greenhouse-gas/">greenhouse gas emissions</a>. Yet Brown seemed to invert the priorities of other CEOs. He was a reticent marketer and eschewed the founder showbiz routine, which sometimes seems to represent the whole enchilada at other startups.</p>\n<figure><figcaption data-event-boundary="click" data-event-click="{" data-in-view="{" data-include-experiments="true"><p>See more from <a href="https://www.wired.com/story/climate-issue/">The Climate Issue</a> | April 2020. <a href="https://subscribe.wired.com/subscribe/splits/wired/WIR_Edit_Hardcoded?source=HCL_WIR_COVER_INSET_0">Subscribe to WIRED</a>.</p> Illustration: Alvaro Dominguez</figcaption></figure>\n<p>But Impossible was going to need finesse. People are very weird about meat. I had a question I considered urgent: &ldquo;What do you think consumers, who are panicked about GMOs, will make of the genetic modification required to transform plants into meat?&rdquo;</p>\n<p>There was silence. Brown didn't quite say <em>mmkay</em>, but he looked weary, so weary, as if I'd asked him about the opinions of flat-earthers and chupacabra hunters.</p>\n<p>Brown, who is a vegan, seemed to find the peculiar human folkways involving meat enervating. He pointed me to a study by Oklahoma State University that showed that 82 percent of Americans said they'd support &ldquo;mandatory labels on foods containing DNA.&rdquo;</p>\n<p>I let that sink in. What's edible that's free of DNA? I wondered. Maybe salt. Maybe Starbursts. &ldquo;Does that leave gravel?&rdquo; I asked.</p>\n<p>&ldquo;Ordinary consumers don't know very much about genetic material,&rdquo; he said, dryly.</p>\n<p>True. Likewise, it seems, we don't know much about <a href="https://www.wired.com/story/wired-guide-to-crispr/">Crispr</a>, nuclear power, or geoengineering. No wonder it's hell marketing big solutions for the climate crisis to us; many of us think DNA in food is cause for alarm. Then we worry about the destruction of DNA by nuclear waste, though an expanded nuclear program is a way to prolong the life of the planet. Like superstitious yokels from the dawn of time, we just know what we like and what we don't. And we don't like things that sound &hellip; hinky or creepy. Or, worse, things that sound like something someone who's not in our tribe might be excited about.</p>\n<p>This is why implementing the next phase of radical climate solutions is less a technological project than an anthropological one. The field of anthropology, which thrived in the last century, has deteriorated in recent years; this is a loss. Franz Boas, who is considered the father of American cultural anthropology, devised the field in part to counter the sophistry of scientific racism. Anthropologists who followed him (including his students Zora Neale Hurston and Margaret Mead) continued in this liberal tradition, focusing on how people come by superstitions&mdash;including, in the West, &ldquo;scientific racism&rdquo;&mdash;the better to recognize, and correct for, their own.</p>\n<p>Ventures devoted to reducing livestock farming, including Impossible Foods, could use these minds and methodologies now. Dietary laws around the globe exist chiefly to express anxiety about meat. There are vegetarian religions like Jainism; tribes like the Maasai, who largely reject the meat of wild animals in favor of the blood and milk of cows; Muslim and Jewish adherents to the laws of halal or kashrut; and many modern cultures that eat meat with such relish that they aim bitter resentment at anyone who would curb their zeal. &ldquo;Everyone calls what is not their own custom barbarism,&rdquo; as Montaigne put it.</p>",
+      "text": "Pat Brown, the Stanford biochemist who founded Impossible Foods, was trying to be patient, as if he were addressing a dim sophomore. This was five years ago, and his company's signature product—a bona fide burger made from plants and animated by a molecule from soy plants that's bio-equivalent to mammal blood—hadn't yet found its way to Burger King and White Castle. I'd come to his office in Redwood City, California, to talk to him about whether consumers really would start eating a beef simulacrum.\nNow this was a startup. In identifying heme, that blood-like molecule, Brown had a galvanizing innovation. And his company had a crystal-clear reason for being: to meaningfully reduce livestock farming, the industry that produces 14.5 percent of all greenhouse gas emissions. Yet Brown seemed to invert the priorities of other CEOs. He was a reticent marketer and eschewed the founder showbiz routine, which sometimes seems to represent the whole enchilada at other startups.\nBut Impossible was going to need finesse. People are very weird about meat. I had a question I considered urgent: “What do you think consumers, who are panicked about GMOs, will make of the genetic modification required to transform plants into meat?”\nThere was silence. Brown didn't quite say mmkay, but he looked weary, so weary, as if I'd asked him about the opinions of flat-earthers and chupacabra hunters.\nBrown, who is a vegan, seemed to find the peculiar human folkways involving meat enervating. He pointed me to a study by Oklahoma State University that showed that 82 percent of Americans said they'd support “mandatory labels on foods containing DNA.”\nI let that sink in. What's edible that's free of DNA? I wondered. Maybe salt. Maybe Starbursts. “Does that leave gravel?” I asked.\n“Ordinary consumers don't know very much about genetic material,” he said, dryly.\nTrue. Likewise, it seems, we don't know much about Crispr, nuclear power, or geoengineering. No wonder it's hell marketing big solutions for the climate crisis to us; many of us think DNA in food is cause for alarm. Then we worry about the destruction of DNA by nuclear waste, though an expanded nuclear program is a way to prolong the life of the planet. Like superstitious yokels from the dawn of time, we just know what we like and what we don't. And we don't like things that sound … hinky or creepy. Or, worse, things that sound like something someone who's not in our tribe might be excited about.\nThis is why implementing the next phase of radical climate solutions is less a technological project than an anthropological one. The field of anthropology, which thrived in the last century, has deteriorated in recent years; this is a loss. Franz Boas, who is considered the father of American cultural anthropology, devised the field in part to counter the sophistry of scientific racism. Anthropologists who followed him (including his students Zora Neale Hurston and Margaret Mead) continued in this liberal tradition, focusing on how people come by superstitions—including, in the West, “scientific racism”—the better to recognize, and correct for, their own.\nVentures devoted to reducing livestock farming, including Impossible Foods, could use these minds and methodologies now. Dietary laws around the globe exist chiefly to express anxiety about meat. There are vegetarian religions like Jainism; tribes like the Maasai, who largely reject the meat of wild animals in favor of the blood and milk of cows; Muslim and Jewish adherents to the laws of halal or kashrut; and many modern cultures that eat meat with such relish that they aim bitter resentment at anyone who would curb their zeal. “Everyone calls what is not their own custom barbarism,” as Montaigne put it.",
+      "authors": [
+        {
+          "name": "Virginia Heffernan",
+          "link": "wired.com/contributor/virginia-heffernan"
+        }
+      ]
+    }
+  ],
+  "url": "https://www.wired.com/story/climate-change-change-your-mind-about-alternative-meat/"
+}
